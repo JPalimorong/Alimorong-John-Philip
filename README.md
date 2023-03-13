@@ -1,6 +1,6 @@
-### Hi there👋
+### Hi there 👋, my name is Philip
 
-## It's me Philip, I made this for educational purposes only.
+#### I made this project for educational purposes only.
 
 ‣ Name: John Philip S. Alimorong
 
@@ -9,3 +9,7 @@
 ‣ Section: 22016
 
 ‣ Subject: System Integration and Architecture
+
+
+- 🔭 By the way I'm new to this page. 
+
