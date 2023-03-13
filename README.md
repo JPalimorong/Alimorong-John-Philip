@@ -1,3 +1,5 @@
+![GitHub-Mark](https://user-images.githubusercontent.com/127371993/224670361-8075c0c8-1227-4844-af6d-c31b776dcb7a.png)
+
 # Hi there 👋, my name is Philip
 
 ## I made this project for educational purposes only.
