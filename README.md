@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Philip
+# Hi there 👋, my name is Philip
 
-#### I made this project for educational purposes only.
+## I made this project for educational purposes only.
 
 ‣ Name: John Philip S. Alimorong
 
